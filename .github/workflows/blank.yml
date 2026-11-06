@@ -1,4 +1,4 @@
-name: Build Fabric Mod
+​name: Build Fabric Mod
 on:
 push:
 pull_request:
