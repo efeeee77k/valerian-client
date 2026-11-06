@@ -1,5 +1,7 @@
-​name: Build Fabric Mod
-on: [push, pull_request]
+name: Build Fabric Mod
+on:
+push:
+pull_request:
 workflow_dispatch:
 jobs:
 build:
